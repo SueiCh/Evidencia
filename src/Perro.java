@@ -13,6 +13,12 @@ public class Perro {
         tamano=c;
         color=d;
     }
+    public Perro(String raza,String tam){
+        edad=4;
+        this.raza=raza;
+        tamano=tam;
+        color="Blanco";
+    }
     //Comportamientos
 
     public void comer(){
