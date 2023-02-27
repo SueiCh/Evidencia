@@ -1,2 +1,2 @@
 # Evidencia
-Proyecto de evidencia Compuación en Java
+Proyecto de evidencia Computación en Java
